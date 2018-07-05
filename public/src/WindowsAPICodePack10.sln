@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shell", "Shell\Shell.csproj", "{AA0C00CB-8699-4F37-BFAE-40CA87ACC06D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{2E1FB0DF-F9BB-4909-9F32-2D9D022A8E57}"
@@ -11,8 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedLinguisticServices"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellExtensions", "ShellExtensions\ShellExtensions.csproj", "{F3C863EC-33F4-4ED2-9D67-00BF3EEEAB64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplorerBrowser", "ExplorerDemo\CS\WinForms\ExplorerBrowser.csproj", "{2AACFF7E-F4B1-44F6-92C6-20ACBB647A4D}"
+EndProject
 Global
-
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|Mixed Platforms = Debug|Mixed Platforms
@@ -72,8 +75,23 @@ Global
 		{F3C863EC-33F4-4ED2-9D67-00BF3EEEAB64}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{F3C863EC-33F4-4ED2-9D67-00BF3EEEAB64}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{F3C863EC-33F4-4ED2-9D67-00BF3EEEAB64}.Release|Win32.ActiveCfg = Release|Any CPU
+		{2AACFF7E-F4B1-44F6-92C6-20ACBB647A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AACFF7E-F4B1-44F6-92C6-20ACBB647A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AACFF7E-F4B1-44F6-92C6-20ACBB647A4D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2AACFF7E-F4B1-44F6-92C6-20ACBB647A4D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2AACFF7E-F4B1-44F6-92C6-20ACBB647A4D}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{2AACFF7E-F4B1-44F6-92C6-20ACBB647A4D}.Debug|Win32.Build.0 = Debug|Any CPU
+		{2AACFF7E-F4B1-44F6-92C6-20ACBB647A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AACFF7E-F4B1-44F6-92C6-20ACBB647A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AACFF7E-F4B1-44F6-92C6-20ACBB647A4D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2AACFF7E-F4B1-44F6-92C6-20ACBB647A4D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2AACFF7E-F4B1-44F6-92C6-20ACBB647A4D}.Release|Win32.ActiveCfg = Release|Any CPU
+		{2AACFF7E-F4B1-44F6-92C6-20ACBB647A4D}.Release|Win32.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6AE6572-28CB-4E23-AABD-C48FA2A7D384}
 	EndGlobalSection
 EndGlobal
