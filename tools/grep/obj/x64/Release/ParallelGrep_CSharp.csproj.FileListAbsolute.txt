@@ -1,0 +1,9 @@
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\bin\x64\Release\ParallelGrep.exe
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\bin\x64\Release\ParallelGrep.pdb
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\obj\x64\Release\ParallelGrep_CSharp.csprojAssemblyReference.cache
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\obj\x64\Release\ParallelGrep_CSharp.csproj.CoreCompileInputs.cache
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\obj\x64\Release\ParallelGrep.exe
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\obj\x64\Release\ParallelGrep.pdb
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\bin\x64\Release\ParallelGrep.xml
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\bin\x64\Release\ParallelGrep.exe.CodeAnalysisLog.xml
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\bin\x64\Release\ParallelGrep.exe.lastcodeanalysissucceeded

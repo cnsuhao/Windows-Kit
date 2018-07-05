@@ -1,0 +1,112 @@
+﻿  build.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\pal_mstypes.h(338): error C2371: 'size_t': redefinition; different basic types
+  g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\build.c: note: see declaration of 'size_t'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2146: syntax error: missing ')' before identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2081: 'LPCONTEXT': name in formal parameter list illegal
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2061: syntax error: identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ';'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing ')' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing '{' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2589): error C2061: syntax error: identifier 'PCONTEXT'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2590): error C2059: syntax error: '}'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(4293): fatal error C1189: #error:   PAL_TRY_LOCAL_SIZE is not defined for this architecture
+  builddb.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\pal_mstypes.h(338): error C2371: 'size_t': redefinition; different basic types
+  g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\builddb.c: note: see declaration of 'size_t'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2146: syntax error: missing ')' before identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2081: 'LPCONTEXT': name in formal parameter list illegal
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2061: syntax error: identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ';'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing ')' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing '{' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2589): error C2061: syntax error: identifier 'PCONTEXT'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2590): error C2059: syntax error: '}'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(4293): fatal error C1189: #error:   PAL_TRY_LOCAL_SIZE is not defined for this architecture
+  buildexe.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\pal_mstypes.h(338): error C2371: 'size_t': redefinition; different basic types
+  g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildexe.c: note: see declaration of 'size_t'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2146: syntax error: missing ')' before identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2081: 'LPCONTEXT': name in formal parameter list illegal
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2061: syntax error: identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ';'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing ')' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing '{' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2589): error C2061: syntax error: identifier 'PCONTEXT'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2590): error C2059: syntax error: '}'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(4293): fatal error C1189: #error:   PAL_TRY_LOCAL_SIZE is not defined for this architecture
+  buildinc.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\pal_mstypes.h(338): error C2371: 'size_t': redefinition; different basic types
+  g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildinc.c: note: see declaration of 'size_t'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2146: syntax error: missing ')' before identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2081: 'LPCONTEXT': name in formal parameter list illegal
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2061: syntax error: identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ';'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing ')' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing '{' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2589): error C2061: syntax error: identifier 'PCONTEXT'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2590): error C2059: syntax error: '}'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(4293): fatal error C1189: #error:   PAL_TRY_LOCAL_SIZE is not defined for this architecture
+  buildmak.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\pal_mstypes.h(338): error C2371: 'size_t': redefinition; different basic types
+  g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildmak.c: note: see declaration of 'size_t'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2146: syntax error: missing ')' before identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2081: 'LPCONTEXT': name in formal parameter list illegal
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2061: syntax error: identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ';'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing ')' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing '{' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2589): error C2061: syntax error: identifier 'PCONTEXT'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2590): error C2059: syntax error: '}'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(4293): fatal error C1189: #error:   PAL_TRY_LOCAL_SIZE is not defined for this architecture
+  buildscn.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\pal_mstypes.h(338): error C2371: 'size_t': redefinition; different basic types
+  g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildscn.c: note: see declaration of 'size_t'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2146: syntax error: missing ')' before identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2081: 'LPCONTEXT': name in formal parameter list illegal
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2061: syntax error: identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ';'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing ')' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing '{' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2589): error C2061: syntax error: identifier 'PCONTEXT'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2590): error C2059: syntax error: '}'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(4293): fatal error C1189: #error:   PAL_TRY_LOCAL_SIZE is not defined for this architecture
+  buildsrc.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\pal_mstypes.h(338): error C2371: 'size_t': redefinition; different basic types
+  g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildsrc.c: note: see declaration of 'size_t'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2146: syntax error: missing ')' before identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2081: 'LPCONTEXT': name in formal parameter list illegal
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2061: syntax error: identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ';'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing ')' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing '{' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2589): error C2061: syntax error: identifier 'PCONTEXT'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2590): error C2059: syntax error: '}'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(4293): fatal error C1189: #error:   PAL_TRY_LOCAL_SIZE is not defined for this architecture
+  buildutl.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\pal_mstypes.h(338): error C2371: 'size_t': redefinition; different basic types
+  g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildutl.c: note: see declaration of 'size_t'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2146: syntax error: missing ')' before identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2081: 'LPCONTEXT': name in formal parameter list illegal
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2061: syntax error: identifier 'lpContext'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ';'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing ')' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing '{' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2059: syntax error: ')'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2589): error C2061: syntax error: identifier 'PCONTEXT'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2590): error C2059: syntax error: '}'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(4293): fatal error C1189: #error:   PAL_TRY_LOCAL_SIZE is not defined for this architecture

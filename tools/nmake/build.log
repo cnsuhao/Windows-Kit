@@ -1,0 +1,7 @@
+
+Microsoft (R) Program Maintenance Utility Version 14.14.26430.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+--- building _MBCS version
+NMAKE : fatal error U1073: don't know how to make '\langapi\include\version.h'
+Stop.

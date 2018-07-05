@@ -1,0 +1,5 @@
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwpf\bin\Release\NotepadClone.exe.config
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwpf\bin\Release\NotepadClone.exe
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwpf\obj\Release\NotepadWPF.csprojAssemblyReference.cache
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwpf\obj\Release\NotepadWPF.csproj.CoreCompileInputs.cache
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwpf\obj\Release\NotepadClone.exe

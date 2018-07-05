@@ -1,0 +1,6 @@
+G:\EnterpriseWDK\Program Files\Windows Kits\7\private\sdktools\ftp\src\obj\Debug\ftp.csprojAssemblyReference.cache
+G:\EnterpriseWDK\Program Files\Windows Kits\7\private\sdktools\ftp\src\obj\Debug\ftp.csproj.CoreCompileInputs.cache
+G:\EnterpriseWDK\Program Files\Windows Kits\7\private\sdktools\ftp\src\bin\Debug\ftp.dll
+G:\EnterpriseWDK\Program Files\Windows Kits\7\private\sdktools\ftp\src\bin\Debug\ftp.pdb
+G:\EnterpriseWDK\Program Files\Windows Kits\7\private\sdktools\ftp\src\obj\Debug\ftp.dll
+G:\EnterpriseWDK\Program Files\Windows Kits\7\private\sdktools\ftp\src\obj\Debug\ftp.pdb

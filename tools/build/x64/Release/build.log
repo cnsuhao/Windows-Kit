@@ -1,0 +1,52 @@
+﻿  build.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\build.c(705): warning C4013: 'time' undefined; assuming extern returning int
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\build.c(707): warning C4013: 'ctime' undefined; assuming extern returning int
+  builddb.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\builddb.c(609): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\builddb.c(1150): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\builddb.c(1250): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\builddb.c(1280): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\builddb.c(2064): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\builddb.c(2131): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+  buildexe.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildexe.c(285): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildexe.c(317): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildexe.c(438): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildexe.c(473): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildexe.c(497): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildexe.c(3229): warning C4013: 'time' undefined; assuming extern returning int
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildexe.c(3375): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildexe.c(3816): warning C4013: '_open_osfhandle' undefined; assuming extern returning int
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildexe.c(3826): warning C4013: '_close' undefined; assuming extern returning int
+  buildinc.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildinc.c(232): warning C4267: 'initializing': conversion from 'size_t' to 'ULONG', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildinc.c(493): warning C4013: 'fprintf' undefined; assuming extern returning int
+  buildmak.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildmak.c(1965): warning C4101: 'sync': unreferenced local variable
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildmak.c(2345): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildmak.c(3394): warning C4477: 'sprintf' : format string '%.*s' requires an argument of type 'int', but variadic argument 2 has type '__int64'
+  g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildmak.c(3394): note: this argument is used as a precision
+  buildscn.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildscn.c(606): warning C4013: 'sprintf' undefined; assuming extern returning int
+  buildsrc.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildsrc.c(289): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildsrc.c(435): warning C4013: 'printf' undefined; assuming extern returning int
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildsrc.c(458): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildsrc.c(533): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildsrc.c(562): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildsrc.c(569): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildsrc.c(608): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildsrc.c(1021): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildsrc.c(1207): warning C4013: 'sprintf' undefined; assuming extern returning int
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildsrc.c(2380): warning C4101: 'token': unreferenced local variable
+  buildutl.c
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildutl.c(523): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildutl.c(1355): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildutl.c(1558): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildutl.c(1678): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildutl.c(1695): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+  buildscr.cpp
+  Generating code
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\build\buildsrc.c(558): error C4703: potentially uninitialized local pointer variable 'p2' used
+  All 217 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed

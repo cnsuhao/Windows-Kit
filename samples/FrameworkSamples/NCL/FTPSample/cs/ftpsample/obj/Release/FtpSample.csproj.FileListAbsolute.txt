@@ -1,0 +1,5 @@
+G:\EnterpriseWDK\Program Files\Windows Kits\7\public\samples\FrameworkSamples\NCL\FTPSample\cs\ftpsample\bin\Release\FtpSample.exe.config
+G:\EnterpriseWDK\Program Files\Windows Kits\7\public\samples\FrameworkSamples\NCL\FTPSample\cs\ftpsample\bin\Release\FtpSample.exe
+G:\EnterpriseWDK\Program Files\Windows Kits\7\public\samples\FrameworkSamples\NCL\FTPSample\cs\ftpsample\obj\Release\FtpSample.csprojAssemblyReference.cache
+G:\EnterpriseWDK\Program Files\Windows Kits\7\public\samples\FrameworkSamples\NCL\FTPSample\cs\ftpsample\obj\Release\FtpSample.csproj.CoreCompileInputs.cache
+G:\EnterpriseWDK\Program Files\Windows Kits\7\public\samples\FrameworkSamples\NCL\FTPSample\cs\ftpsample\obj\Release\FtpSample.exe

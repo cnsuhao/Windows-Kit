@@ -1,0 +1,5 @@
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\bin\Release\ParallelGrep.exe
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\bin\Release\ParallelGrep.pdb
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\obj\Release\ParallelGrep_CSharp.csproj.CoreCompileInputs.cache
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\obj\Release\ParallelGrep.exe
+G:\My_Research\research-environment\jdm7dv\base\Applications\grep\obj\Release\ParallelGrep.pdb

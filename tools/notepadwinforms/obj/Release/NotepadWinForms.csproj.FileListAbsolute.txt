@@ -1,0 +1,10 @@
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwinforms\bin\Release\WindowsApplication1.exe.config
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwinforms\bin\Release\WindowsApplication1.exe
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwinforms\bin\Release\WindowsApplication1.pdb
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwinforms\obj\Release\NotepadWinForms.csprojAssemblyReference.cache
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwinforms\obj\Release\WindowsApplication1.Form1.resources
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwinforms\obj\Release\WindowsApplication1.Properties.Resources.resources
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwinforms\obj\Release\NotepadWinForms.csproj.GenerateResource.cache
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwinforms\obj\Release\NotepadWinForms.csproj.CoreCompileInputs.cache
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwinforms\obj\Release\WindowsApplication1.exe
+G:\My_Research\research-environment\jdm7dv\base\Applications\notepadwinforms\obj\Release\WindowsApplication1.pdb

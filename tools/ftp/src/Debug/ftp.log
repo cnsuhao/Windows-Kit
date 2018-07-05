@@ -1,0 +1,2 @@
+﻿  ftp.c
+g:\enterprisewdk\program files\windows kits\7\private\sdktools\ftp\src\c\ftp\ftp\ftp.c(57): fatal error C1083: Cannot open include file: 'nstdio.h': No such file or directory

@@ -1,0 +1,5 @@
+G:\My_Research\research-environment\jdm7dv\base\Applications\nslookup\bin\Release\nslookup.exe.config
+G:\My_Research\research-environment\jdm7dv\base\Applications\nslookup\bin\Release\nslookup.exe
+G:\My_Research\research-environment\jdm7dv\base\Applications\nslookup\bin\Release\nslookup.xml
+G:\My_Research\research-environment\jdm7dv\base\Applications\nslookup\obj\Release\NSLookup.csproj.CoreCompileInputs.cache
+G:\My_Research\research-environment\jdm7dv\base\Applications\nslookup\obj\Release\nslookup.exe
