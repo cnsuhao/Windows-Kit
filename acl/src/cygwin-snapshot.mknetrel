@@ -1,0 +1,15 @@
+. $here/extra/cygwin
+
+prebuild() {
+    date +'%Y%m%d-%H:%M:%S' > $src/winsup/cygwin/.snapshot-date
+    addmakeflags -j12
+}
+
+prepath() {
+    pp="`typeset -f prepackage | sed 's/src_exclude=.*$/src_exclude="'"(cinstallzlib|bz2lib)"'"/'`"
+    eval "$pp"
+}
+
+preinstall() {
+    export useDESTDIR=1
+}
