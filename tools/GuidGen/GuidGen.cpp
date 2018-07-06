@@ -3,10 +3,10 @@
 
 #include "stdatl.h"
 
-#include <atlframe.h>
-#include <atlgdi.h>
-#include <atlctrls.h>
-#include <atldlgs.h>
+#include "atlframe.h"
+#include "atlgdi.h"
+#include "atlctrls.h"
+#include "atldlgs.h"
 
 #include "resource.h"
 

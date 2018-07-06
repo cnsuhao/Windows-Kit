@@ -6,9 +6,8 @@
 // Change these values to use different versions
 #define _WIN32_IE	0x0400
 #define _RICHEDIT_VER	0x0100
-
 #include <atlbase.h>
-#include <atlapp.h>
+#include "atlapp.h"
 
 extern CAppModule _Module;
 

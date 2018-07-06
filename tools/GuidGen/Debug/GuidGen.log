@@ -1,0 +1,13 @@
+﻿  stdatl.cpp
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(166): warning C4005: '_INTSIZEOF': macro redefinition
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vadefs.h(74): note: see previous definition of '_INTSIZEOF'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(171): warning C4005: '_ADDRESSOF': macro redefinition
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vadefs.h(44): note: see previous definition of '_ADDRESSOF'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1956): error C2061: syntax error: identifier 'LPCONTEXT'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(1963): error C2143: syntax error: missing ',' before '*'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2589): error C3646: 'ContextRecord': unknown override specifier
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(2589): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(3443): warning C4005: 'errno': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\errno.h(20): note: see previous definition of 'errno'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\public\inc\rotor_pal.h(4293): fatal error C1189: #error:   PAL_TRY_LOCAL_SIZE is not defined for this architecture

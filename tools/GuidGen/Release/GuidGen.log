@@ -1,0 +1,23 @@
+﻿  stdatl.cpp
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atlapp.h(486): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(378): note: see declaration of 'GetVersionExA'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atlapp.h(580): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(378): note: see declaration of 'GetVersionExA'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atlapp.h(848): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1469): note: see declaration of 'vsprintf'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atlgdi.h(454): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atlgdi.h(461): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atlgdi.h(468): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atlgdi.h(475): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atlgdi.h(3642): warning C4838: conversion from 'LONG' to 'DWORD' requires a narrowing conversion
+  GuidGen.cpp
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atldlgs.h(3065): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atldlgs.h(3087): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atldlgs.h(3141): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atldlgs.h(3156): warning C4302: 'type cast': truncation from 'LPCTSTR' to 'WORD'
+g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atldlgs.h(480): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(378): note: see declaration of 'GetVersionExA'
+  g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atldlgs.h(467): note: while compiling class template member function 'WTL::CMultiFileDialogImpl<WTL::CMultiFileDialog>::CMultiFileDialogImpl(LPCTSTR,LPCTSTR,DWORD,LPCTSTR,HWND)'
+  g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atldlgs.h(874): note: see reference to function template instantiation 'WTL::CMultiFileDialogImpl<WTL::CMultiFileDialog>::CMultiFileDialogImpl(LPCTSTR,LPCTSTR,DWORD,LPCTSTR,HWND)' being compiled
+  g:\enterprisewdk\program files\microsoft\nffo\windows-kit\tools\guidgen\atldlgs.h(866): note: see reference to class template instantiation 'WTL::CMultiFileDialogImpl<WTL::CMultiFileDialog>' being compiled
+  GuidGen.vcxproj -> G:\EnterpriseWDK\Program Files\Microsoft\NFFO\Windows-KIt\tools\GuidGen\.\Release\GuidGen.exe

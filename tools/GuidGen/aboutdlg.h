@@ -1,3 +1,5 @@
+
+
 class CAboutDlg : public CDialogImpl<CAboutDlg>
 {
 public:
